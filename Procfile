@@ -1,1 +1,1 @@
-web: npm start
+web: cd mern-exercise-tracker-mongodb-master && npm start
